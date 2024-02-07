@@ -1,4 +1,4 @@
-I Have Created My Personal Portfolio 📝
+I Have Created A Responsive Personal Portfolio 📝
 
 An Overview Of My Portfolio 👇
 
